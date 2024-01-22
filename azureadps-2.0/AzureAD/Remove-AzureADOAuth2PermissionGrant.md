@@ -95,15 +95,17 @@ Accept wildcard characters: False
 ### CommonParameters
 This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutVariable, -OutBuffer, -PipelineVariable, -Verbose, -WarningAction, and -WarningVariable. For more information, see [about_CommonParameters](http://go.microsoft.com/fwlink/?LinkID=113216).
 
+## NOTES
+
+See the [migration guide for Remove-AzureADOAuth2PermissionGrant](./migrate/Remove-AzureADOAuth2PermissionGrant.md) to the Microsoft Graph PowerShell.
+
 ## INPUTS
 
 ## OUTPUTS
 
-## NOTES
-
 ## RELATED LINKS
 
-[Get-AzureADOAuth2PermissionGrant]()
+[Get-AzureADOAuth2PermissionGrant](Get-AzureADOAuth2PermissionGrant.md)
 
-[Get-AzureADServicePrincipal]()
+[Get-AzureADServicePrincipal](Get-AzureADServicePrincipal.md)
 

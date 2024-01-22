@@ -116,19 +116,21 @@ Accept wildcard characters: False
 ### CommonParameters
 This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutVariable, -OutBuffer, -PipelineVariable, -Verbose, -WarningAction, and -WarningVariable. For more information, see [about_CommonParameters](http://go.microsoft.com/fwlink/?LinkID=113216).
 
+## NOTES
+
+See the [migration guide for Get-AzureADTrustedCertificateAuthority](./migrate/Get-AzureADTrustedCertificateAuthority.md) to the Microsoft Graph PowerShell.
+
 ## INPUTS
 
 ## OUTPUTS
 
-## NOTES
-
 ## RELATED LINKS
 
-[New-AzureADTrustedCertificateAuthority]()
+[New-AzureADTrustedCertificateAuthority](New-AzureADTrustedCertificateAuthority.md)
 
-[Remove-AzureADTrustedCertificateAuthority]()
+[Remove-AzureADTrustedCertificateAuthority](Remove-AzureADTrustedCertificateAuthority.md)
 
-[Set-AzureADTrustedCertificateAuthority]()
+[Set-AzureADTrustedCertificateAuthority](Set-AzureADTrustedCertificateAuthority.md)
 
 [Online help and examples for working with certificate authority](https://azure.microsoft.com/en-us/documentation/articles/active-directory-certificate-based-authentication-ios/)
 
